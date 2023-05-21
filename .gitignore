@@ -161,6 +161,7 @@ cython_debug/
 #.idea/
 
 ## User defined
-git_demo/demo_venv
+./git-lab/git_demo
+./ydata-profiling-lab/ydata_profiling
+./great-expectations-lab/gx
 .DS_STORE
-gx/gx
