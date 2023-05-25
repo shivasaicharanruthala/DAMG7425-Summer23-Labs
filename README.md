@@ -7,3 +7,4 @@ This is a repo for reference to hands on labs.
 1. [Git Demo](./git-lab) - Git Demo
 2. [Ydata Profiling](./ydata-profiling-lab) - Ydata Profiling
 3. [Great Expectations](./great-expectations-lab) - Data Quality Report
+4. [Redis Lab](./redis-lab) - Redis Lab
