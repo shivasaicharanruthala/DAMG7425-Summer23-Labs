@@ -164,4 +164,5 @@ cython_debug/
 ./git-lab/git_demo
 ./ydata-profiling-lab/ydata_profiling
 ./great-expectations-lab/gx
+./streamlit-lab/venv
 .DS_STORE
