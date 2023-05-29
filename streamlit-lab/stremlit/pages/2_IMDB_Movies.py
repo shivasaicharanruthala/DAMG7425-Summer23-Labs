@@ -8,8 +8,8 @@ st.title('IMDB Movies')
 
 redis_conn = redis.Redis(host=os.getenv("DB_HOST", "localhost"),
                          port=os.getenv("DB_PORT", 6379),
-                         # username=os.getenv("DB_USERNAME", ""),
-                         # password=os.getenv("DB_PASSWORD", ""),
+                         username=os.getenv("DB_USERNAME", ""),
+                         password=os.getenv("DB_PASSWORD", ""),
                          decode_responses=True
                          )
 
