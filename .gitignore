@@ -165,4 +165,5 @@ cython_debug/
 ./ydata-profiling-lab/ydata_profiling
 ./great-expectations-lab/gx
 ./streamlit-lab/venv
+./fastapi-streamlit-lab/fastapi/.venv
 .DS_STORE
